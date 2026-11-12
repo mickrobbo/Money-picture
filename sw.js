@@ -1,5 +1,5 @@
 // Money Picture offline support. Bump VERSION to push an update.
-const VERSION = 'money-picture-v1';
+const VERSION = 'money-picture-v2';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon.svg', './icons/favicon-32.png',
   './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-192.png', './icons/maskable-512.png', './icons/apple-touch-icon.png'];
 
